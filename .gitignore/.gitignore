@@ -1,4 +1,4 @@
-Just edit the link in this () " The image must be in a direct link
+Just edit the link in the () " The image must be in a direct link
 [class~=app] {
     background: url(https://i.imgur.com/u8UvF3E.jpg) !important; /* The URL of the background image you want */
     background-size: cover !important; /* No need to edit this */
